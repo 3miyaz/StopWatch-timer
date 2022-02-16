@@ -13,7 +13,7 @@ The timer has four buttons: 'START', 'STOPE', 'RESUME', and 'RESET'.
 ![stop-reset](https://user-images.githubusercontent.com/46068633/154265044-4c77953e-e3bb-430e-9840-287d56ea8d79.JPG)
 
 
-4. When the app is stopped we have two buttons, the 'RESUME' button-to contiue running the timer- and the 'RESET' button to reset the timer to its initial state. 
+4. When the app is stopped we have two buttons, the 'RESUME' button-to continue running the timer- and the 'RESET' button to reset the timer to its initial state. 
 
 ![resume-reset](https://user-images.githubusercontent.com/46068633/154265071-634cf98e-260a-4fe7-a5da-f2bc4ada09e4.JPG)
 
