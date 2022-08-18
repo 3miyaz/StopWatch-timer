@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StopWatch-timer/static/css/main.d6799609.css",
+    "main.js": "/StopWatch-timer/static/js/main.61d1f760.js",
+    "index.html": "/StopWatch-timer/index.html",
+    "main.d6799609.css.map": "/StopWatch-timer/static/css/main.d6799609.css.map",
+    "main.61d1f760.js.map": "/StopWatch-timer/static/js/main.61d1f760.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6799609.css",
+    "static/js/main.61d1f760.js"
+  ]
+}
