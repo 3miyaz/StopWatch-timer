@@ -1,6 +1,6 @@
 A simple Stopwatch timer application built using reactJs.
 
-The timer has four buttons: 'START', 'STOPE', 'RESUME', and 'RESET'.
+The timer has four buttons: 'START', 'STOP', 'RESUME', and 'RESET'.
 
 1. when the app is lauched we have the 'START' button.
 
